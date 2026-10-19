@@ -176,7 +176,7 @@ vaibhav@github:~$ ./build_future.sh
 
 ### `// CODE. TEST. BREAK. FIX. SHIP. //`
 
-<sub>Designed as a terminal-inspired profile README — minimal, technical and intentionally different from the usual badge wall.</sub>
+
 
 </div>
 
