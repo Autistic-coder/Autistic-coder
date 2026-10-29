@@ -139,6 +139,16 @@ Collection of implementations covering arrays, binary search, linked lists, tree
 
 Developed the **VisionLine Inspector** industrial computer vision application for automotive assembly inspection. Worked on camera acquisition, detection models, operator-facing status visualization, inspection logic, and integration-oriented logging for production workflows.
 
+## `> learning_next`
+
+`Rust` · `Kubernetes` · `Google Cloud Platform` · `Linux Internals`
+
+## `> github_signal`
+
+<div align="center">
+  <img src="./assets/github-signal.svg" alt="Live GitHub signal metrics: public repositories, stars, followers and primary repository languages" width="100%" />
+</div>
+
 ## `> github_activity`
 
 My public contributions, repository history, and language breakdown are available directly through GitHub. Using GitHub-native links here avoids broken third-party statistics images.
