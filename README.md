@@ -144,13 +144,11 @@ Collection of implementations covering arrays, binary search, linked lists, tree
   <img src="./assets/github-signal.svg" alt="Live GitHub signal metrics: public repositories, stars, followers and primary repository languages" width="100%" />
 </div>
 
-## `> github_activity`
 
 
 
-<table>
-<tr><td width="33%" align="center"><strong>Repositories</strong><br/><a href="https://github.com/Autistic-coder?tab=repositories">Browse projects</a></td><td width="33%" align="center"><strong>Contributions</strong><br/><a href="https://github.com/Autistic-coder">View contribution calendar</a></td><td width="33%" align="center"><strong>Problem Solving</strong><br/><a href="https://leetcode.com/u/haalandcodes404/">LeetCode profile</a></td></tr>
-</table>
+
+
 
 
 ---
