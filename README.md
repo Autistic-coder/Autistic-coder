@@ -52,12 +52,78 @@ ENGINEERING FOCUS   API Design · Data Integrity · Testing · Production Workfl
 
 ## `> selected_projects`
 
-| Project | Engineering scope | Stack |
-| :--- | :--- | :--- |
-| **[VisionLine Inspector](https://github.com/Autistic-coder/visionline-inspector)** | Industrial dual-camera inspection system with YOLOv8 inference, RTSP streams, inspection regions, operator interface, PLC-oriented triggering, and inspection logs. | Python, PyTorch, OpenCV, YOLOv8, PySide6 |
-| **[MindMesh](https://github.com/Autistic-coder/mind-mesh)** | Multi-user ML platform supporting secure accounts, dataset validation, classification/regression training, model evaluation, persistent model storage, and batch predictions. | React, FastAPI, scikit-learn, PostgreSQL |
-| **[Tor Project v2](https://github.com/Autistic-coder/tor_project_v2)** | Exploratory software engineering work in networking and systems. | Networking, Software Engineering |
-| **[LeetCode Solutions](https://github.com/Autistic-coder/leetcode-solutions-)** | Algorithm practice across arrays, searching, linked lists, trees, graphs, stacks, queues, and dynamic programming. | C++, Algorithms |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [01 / VisionLine Inspector](https://github.com/Autistic-coder/visionline-inspector)
+
+**Industrial Computer Vision · Automotive Inspection**
+
+Dual-camera inspection application designed for automotive assembly operations. Integrates real-time object detection, operator-facing inspection states, and vehicle-linked logging.
+
+**Engineering highlights**
+- Dual RTSP streams and YOLOv8 inference
+- Region-of-interest inspection and camera handling
+- PySide6 desktop operator interface
+- PLC-triggered workflow design and inspection logging
+
+`Python` `PyTorch` `YOLOv8` `OpenCV` `PySide6`
+
+[Explore repository](https://github.com/Autistic-coder/visionline-inspector)
+
+</td>
+<td width="50%" valign="top">
+
+### [02 / MindMesh](https://github.com/Autistic-coder/mind-mesh)
+
+**Full-Stack Development · Machine Learning Platform**
+
+Multi-user workspace for dataset exploration, training, evaluation, model management, and predictions, built around account-level isolation and an accessible workflow.
+
+**Engineering highlights**
+- Authentication, authorization, and session security
+- CSV/XLSX validation and dataset management
+- Classification, regression, and held-out evaluation
+- Saved models, batch prediction, and persistent storage
+
+`React` `FastAPI` `scikit-learn` `PostgreSQL`
+
+[Explore repository](https://github.com/Autistic-coder/mind-mesh)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [03 / Tor Project v2](https://github.com/Autistic-coder/tor_project_v2)
+
+**Networking · Systems Exploration**
+
+Implementation-focused exploration of networking and systems concepts, with an emphasis on practical experimentation and engineering fundamentals.
+
+`Networking` `Systems` `Software Engineering`
+
+[Explore repository](https://github.com/Autistic-coder/tor_project_v2)
+
+</td>
+<td width="50%" valign="top">
+
+### [04 / LeetCode Solutions](https://github.com/Autistic-coder/leetcode-solutions-)
+
+**Algorithms · Problem Solving**
+
+Collection of implementations covering arrays, binary search, linked lists, trees, stacks, queues, recursion, and dynamic programming.
+
+`C++` `Data Structures` `Algorithms`
+
+[Explore repository](https://github.com/Autistic-coder/leetcode-solutions-)
+
+</td>
+</tr>
+</table>
+
+[View all repositories](https://github.com/Autistic-coder?tab=repositories)
 
 ## `> industry_experience`
 
@@ -68,16 +134,12 @@ Developed the **VisionLine Inspector** industrial computer vision application fo
 
 ## `> github_activity`
 
-<div align="center">
+My public contributions, repository history, and language breakdown are available directly through GitHub. Using GitHub-native links here avoids broken third-party statistics images.
 
-<img alt="GitHub activity statistics" src="https://github-readme-stats.vercel.app/api?username=Autistic-coder&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9BE264&text_color=c8d8cc&icon_color=9BE264" width="49%"/>
-<img alt="Most-used repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Autistic-coder&layout=compact&hide_border=true&bg_color=0d1117&title_color=9BE264&text_color=c8d8cc" width="49%"/>
+<table>
+<tr><td width="33%" align="center"><strong>Repositories</strong><br/><a href="https://github.com/Autistic-coder?tab=repositories">Browse projects</a></td><td width="33%" align="center"><strong>Contributions</strong><br/><a href="https://github.com/Autistic-coder">View contribution calendar</a></td><td width="33%" align="center"><strong>Problem Solving</strong><br/><a href="https://leetcode.com/u/haalandcodes404/">LeetCode profile</a></td></tr>
+</table>
 
-<img alt="GitHub contributions" src="https://github-readme-activity-graph.vercel.app/graph?username=Autistic-coder&theme=github-compact&hide_border=true&color=9BE264&line=6dbf82&point=c7ffc1&bg_color=0d1117" width="100%"/>
-
-<img alt="Contribution snake" src="https://raw.githubusercontent.com/Autistic-coder/Autistic-coder/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
 
 ---
 
