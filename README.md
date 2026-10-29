@@ -14,7 +14,7 @@
 
 I'm **Vaibhav Bedi**, a B.Tech Computer Science student specializing in **Data Science** at **Bennett University (2024–2028)**, with a focus on **software development engineering, backend systems, system design, and applied machine learning**.
 
-I build software that connects user-facing applications, secure APIs, data infrastructure, and AI models. My projects include a dual-camera industrial inspection system and a multi-user machine learning workbench. I prioritize maintainable architecture, reliable execution, security, and practical performance.
+
 
 ```text
 PRIMARY INTERESTS   Software Engineering · Backend Development · System Design
@@ -132,12 +132,7 @@ Collection of implementations covering arrays, binary search, linked lists, tree
 
 [View all repositories](https://github.com/Autistic-coder?tab=repositories)
 
-## `> industry_experience`
 
-**Summer Intern — Maruti Suzuki India Limited**  
-*Assembly Shop B, Manesar · 3 June – 15 July 2026*
-
-Developed the **VisionLine Inspector** industrial computer vision application for automotive assembly inspection. Worked on camera acquisition, detection models, operator-facing status visualization, inspection logic, and integration-oriented logging for production workflows.
 
 ## `> learning_next`
 
@@ -151,7 +146,7 @@ Developed the **VisionLine Inspector** industrial computer vision application fo
 
 ## `> github_activity`
 
-My public contributions, repository history, and language breakdown are available directly through GitHub. Using GitHub-native links here avoids broken third-party statistics images.
+
 
 <table>
 <tr><td width="33%" align="center"><strong>Repositories</strong><br/><a href="https://github.com/Autistic-coder?tab=repositories">Browse projects</a></td><td width="33%" align="center"><strong>Contributions</strong><br/><a href="https://github.com/Autistic-coder">View contribution calendar</a></td><td width="33%" align="center"><strong>Problem Solving</strong><br/><a href="https://leetcode.com/u/haalandcodes404/">LeetCode profile</a></td></tr>
