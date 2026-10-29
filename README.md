@@ -59,80 +59,14 @@ ENGINEERING FOCUS   API Design · Data Integrity · Testing · Production Workfl
 
 ## `> selected_projects`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | Overview | Technologies |
+| :--- | :--- | :--- |
+| **[VisionLine Inspector](https://github.com/Autistic-coder/visionline-inspector)** | Real-time dual-camera automotive inspection system with AI detection and PLC-oriented workflows. | Python · YOLOv8 · OpenCV · PySide6 |
+| **[MindMesh](https://github.com/Autistic-coder/mind-mesh)** | Secure, multi-user platform for dataset management, ML model training, evaluation, and predictions. | React · FastAPI · scikit-learn · PostgreSQL |
+| **[Tor Project v2](https://github.com/Autistic-coder/tor_project_v2)** | Experimental networking and systems project focused on practical implementation. | Networking · Systems |
+| **[LeetCode Solutions](https://github.com/Autistic-coder/leetcode-solutions-)** | Curated C++ solutions covering core data structures, algorithms, and interview problems. | C++ · DSA |
 
-### [01 / VisionLine Inspector](https://github.com/Autistic-coder/visionline-inspector)
-
-**Industrial Computer Vision · Automotive Inspection**
-
-Dual-camera inspection application designed for automotive assembly operations. Integrates real-time object detection, operator-facing inspection states, and vehicle-linked logging.
-
-**Engineering highlights**
-- Dual RTSP streams and YOLOv8 inference
-- Region-of-interest inspection and camera handling
-- PySide6 desktop operator interface
-- PLC-triggered workflow design and inspection logging
-
-`Python` `PyTorch` `YOLOv8` `OpenCV` `PySide6`
-
-[Explore repository](https://github.com/Autistic-coder/visionline-inspector)
-
-</td>
-<td width="50%" valign="top">
-
-### [02 / MindMesh](https://github.com/Autistic-coder/mind-mesh)
-
-**Full-Stack Development · Machine Learning Platform**
-
-Multi-user workspace for dataset exploration, training, evaluation, model management, and predictions, built around account-level isolation and an accessible workflow.
-
-**Engineering highlights**
-- Authentication, authorization, and session security
-- CSV/XLSX validation and dataset management
-- Classification, regression, and held-out evaluation
-- Saved models, batch prediction, and persistent storage
-
-`React` `FastAPI` `scikit-learn` `PostgreSQL`
-
-[Explore repository](https://github.com/Autistic-coder/mind-mesh)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [03 / Tor Project v2](https://github.com/Autistic-coder/tor_project_v2)
-
-**Networking · Systems Exploration**
-
-Implementation-focused exploration of networking and systems concepts, with an emphasis on practical experimentation and engineering fundamentals.
-
-`Networking` `Systems` `Software Engineering`
-
-[Explore repository](https://github.com/Autistic-coder/tor_project_v2)
-
-</td>
-<td width="50%" valign="top">
-
-### [04 / LeetCode Solutions](https://github.com/Autistic-coder/leetcode-solutions-)
-
-**Algorithms · Problem Solving**
-
-Collection of implementations covering arrays, binary search, linked lists, trees, stacks, queues, recursion, and dynamic programming.
-
-`C++` `Data Structures` `Algorithms`
-
-[Explore repository](https://github.com/Autistic-coder/leetcode-solutions-)
-
-</td>
-</tr>
-</table>
-
-[View all repositories](https://github.com/Autistic-coder?tab=repositories)
-
-
+[Explore all repositories](https://github.com/Autistic-coder?tab=repositories)
 
 ## `> learning_next`
 
