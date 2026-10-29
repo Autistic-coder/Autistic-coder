@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="320" viewBox="0 0 1100 320" role="img" aria-label="GitHub signal metrics will appear after first workflow run"><style>.t{font-family:monospace}.bg{fill:#0d0e12;stroke:#35343d}.m{fill:#9cabbe}.h{fill:#ff791f}.n{fill:#f0f6ff}</style><rect x="1" y="1" width="1098" height="318" rx="20" class="bg"/><text x="32" y="43" class="t h" font-size="15" font-weight="bold">04 / GITHUB SIGNAL</text><text x="32" y="121" font-size="36" class="t n">SYNC PENDING</text><text x="32" y="156" font-size="14" class="t m">Run the Refresh GitHub signal workflow to load current metrics.</text><path d="M32 185H1068" stroke="#303239"/><text x="32" y="221" class="t m" font-size="13">PUBLIC REPOSITORIES   •   STARS   •   FOLLOWERS   •   PRIMARY LANGUAGES</text><rect x="32" y="243" width="1036" height="9" rx="4" fill="#222934"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="320" viewBox="0 0 1100 320" role="img" aria-label="GitHub signal showing current repository count, stars, followers and primary languages">
+<style>
+.bg{fill:#0d0e12;stroke:#35343d;stroke-width:1.4}
+.h{font:700 14px monospace;fill:#ff791f}
+.ts{font:12px monospace;fill:#a8b7cf}
+.n{font:700 45px monospace;fill:#f0f6ff}
+.lab{font:11px monospace;letter-spacing:1px;fill:#9cabbe}
+.legend{font:12px monospace;fill:#dae1e9}
+</style>
+<rect class="bg" x="1" y="1" width="1098" height="318" rx="20"/>
+<text x="32" y="42" class="h">04 / GITHUB SIGNAL</text>
+<text x="780" y="42" class="ts">2026-10-29 16:15 UTC</text>
+<text x="32" y="119" class="n">9</text>
+<text x="377" y="119" class="n">00</text>
+<text x="725" y="119" class="n">3</text>
+<text x="32" y="147" class="lab">PUBLIC REPOSITORIES</text>
+<text x="377" y="147" class="lab">STARS · OWNED ORIGINALS</text>
+<text x="725" y="147" class="lab">FOLLOWERS</text>
+<path d="M32 173H1068" stroke="#303239"/>
+<text x="32" y="201" class="lab">PRIMARY REPO LANGUAGES</text>
+<rect x="32.0" y="218" width="917.9" height="10" rx="4" fill="#ff7b24"/><rect x="952.9" y="218" width="112.1" height="10" rx="4" fill="#37c8e8"/>
+<circle cx="36" cy="259" r="3" fill="#ff7b24"/><text x="46" y="263" class="legend">Python (8)</text><circle cx="381" cy="259" r="3" fill="#37c8e8"/><text x="391" y="263" class="legend">C++ (1)</text>
+</svg>
