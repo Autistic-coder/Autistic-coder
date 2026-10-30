@@ -87,4 +87,3 @@ ENGINEERING FOCUS   API Design · Data Integrity · Testing · Production Workfl
 
 ---
 
-<div align="center"><sub>SOFTWARE ENGINEERING • APPLIED AI • SYSTEMS THAT WORK OUTSIDE THE DEMO</sub></div>
