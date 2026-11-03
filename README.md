@@ -70,7 +70,7 @@ ENGINEERING FOCUS   API Design · Data Integrity · Testing · Production Workfl
 
 ## `> learning_next`
 
-`Rust` · `Kubernetes` · `Google Cloud Platform` · `Linux Internals`
+`Rust` · `Google Cloud Platform` · `Linux Internals`
 
 ## `> github_signal`
 
